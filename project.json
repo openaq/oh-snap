@@ -1,0 +1,8 @@
+{
+  "name": "oh-snap",
+  "description": "Public RDS snapshot creator for OpenAQ database",
+  "memory": 128,
+  "timeout": 60,
+  "role": "arn:aws:iam::470049585876:role/oh-snap_lambda_function",
+  "environment": {}
+}

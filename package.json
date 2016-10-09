@@ -1,0 +1,8 @@
+{
+  "name": "oh-snap",
+  "version": "0.1.0",
+  "description": "An AWS Lambda project to make RDS Snapshots publicly available",
+  "repository": "https://github.com/openaq/oh-snap",
+  "author": "Joe Flasher",
+  "license": "MIT"
+}
